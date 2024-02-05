@@ -14,7 +14,7 @@ public class denemecalass1 {
         System.out.println("adım erdal");
         System.out.println("soyadım kalkan");
 
-        System.out.println("bardakın kulbu sağda");
+        System.out.println("bardagın kulpu solda");
 
 
     }
