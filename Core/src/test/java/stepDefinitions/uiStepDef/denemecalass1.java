@@ -13,7 +13,7 @@ public class denemecalass1 {
         System.out.println("nasılsın");
         System.out.println("soyadım kalkan");
 
-
+        System.out.println("bardagın kulpu solda");
 
 
     }
