@@ -10,6 +10,7 @@ public class denemecalass1 {
     public void denemeclass(){
 
         System.out.println("merhaba");
+        System.out.println("nasılsın");
 
 
 
