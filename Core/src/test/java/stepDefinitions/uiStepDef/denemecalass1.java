@@ -11,6 +11,7 @@ public class denemecalass1 {
 
         System.out.println("merhaba");
         System.out.println("nasılsın");
+        System.out.println("adım erdal");
         System.out.println("soyadım kalkan");
 
         System.out.println("bardagın kulpu solda");
